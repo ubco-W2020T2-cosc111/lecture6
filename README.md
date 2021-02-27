@@ -81,7 +81,7 @@ System.out.println( (number % 3 == 0) ? i : j );
 If you named your files as suggested above, you do not have to do anything in this section.
 If you named your files differently, please update the links below to make sure they work.
 
-[Task 1 Java file](./task1.java)
+[Task 1 Java file](./Task1.java)
 
 [Task 2A Java file](./task2A.java)
 
