@@ -83,9 +83,9 @@ If you named your files differently, please update the links below to make sure 
 
 [Task 1 Java file](./Task1.java)
 
-[Task 2A Java file](./task2A.java)
+[Task 2A Java file](./Task2A.java)
 
-[Task 2B Java file](./task2B.java)
+[Task 2B Java file](./Task2B.java)
 
 [Task 3A Java file](./Task3A.java)
 
